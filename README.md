@@ -1,13 +1,13 @@
 # Hospital-Wait-Time-Analysis
 Hospital Wait Time Analysis – Data-Driven Solutions for Better Patient Experience
 
-🏥 ## Problem Statement:
+## Problem Statement:
 A clinic has been receiving numerous complaints about long wait times from patients. Addressing this is critical to improving patient satisfaction, operational efficiency, and overall healthcare delivery.
 
-🔍 ## Analysis Overview:
+## Analysis Overview:
 After conducting a thorough analysis of hospital data, the following key insights and recommendations emerged:
 
-📊 ## Key Findings:
+## Key Findings:
 1. Overall Wait Time Analysis:
 The average wait time (38.91) is significant (benchmark in US 30 minutes, p-value: 0.001), highlighting a systemic issue that requires immediate attention.
 High variability in wait times during peak periods indicates potential bottlenecks in patient flow.
@@ -34,7 +34,7 @@ Address inefficiencies in handling certain insurance types.
 Streamline documentation and check-in processes.
 Standardize procedures across all financial classes to ensure equity.
 
-🔧 ## Actionable Recommendations:
+## Actionable Recommendations:
 1. Staffing Optimization:
 Increase staffing during peak hours and high-demand days.
 2. Process Improvements: Streamline check-in and patient registration for faster processing.
