@@ -1,6 +1,8 @@
 # Hospital-Wait-Time-Analysis
 Hospital Wait Time Analysis – Data-Driven Solutions for Better Patient Experience
 
+![Hospital-Wait-Time-Analysis Dashboard Screenshot1](images/PatientWaitTime_ScreenCap1.jpeg)
+
 ## Problem Statement:
 A clinic has been receiving numerous complaints about long wait times from patients. Addressing this is critical to improving patient satisfaction, operational efficiency, and overall healthcare delivery.
 
